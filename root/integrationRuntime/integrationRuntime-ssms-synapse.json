@@ -1,0 +1,6 @@
+{
+	"name": "integrationRuntime-ssms-synapse",
+	"properties": {
+		"type": "SelfHosted"
+	}
+}
